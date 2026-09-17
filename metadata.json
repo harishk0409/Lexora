@@ -1,0 +1,6 @@
+{
+  "name": "Lexora — The Living Law Archive",
+  "description": "A living legal knowledge archive and intelligent research interface for connected jurisprudence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
