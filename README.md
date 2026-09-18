@@ -395,4 +395,3 @@ License
 
 This project is currently intended for educational and research purposes.
 
-If the project is released as open source, an appropriate license such as the MIT License can be added.
