@@ -115,9 +115,10 @@ This feature is only for the user interface experience and has no effect on the 
 
 Project Structure
 
+```
 Lexora
 │
-├── server.ts
+├── server.ts  
 │   └── Express backend and API gateway
 │
 ├── server/
@@ -160,11 +161,11 @@ Lexora
 │
 ├── package.json
 └── README.md
-
+```
 How the RAG Pipeline Works
 
 The current research flow can be summarized as:
-
+```
 User Query
     │
     ▼
@@ -195,7 +196,7 @@ Statutes        Case Precedents
             │
             ▼
    Relevance Weight Update
-
+```
 Technology Used
 
 Frontend
